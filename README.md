@@ -33,6 +33,6 @@ CadastroRSB2017_Portal_SNISB(v4).xlsx: the original dam register for Brazil. Thi
 CadastroRSB2017_Portal_SNISB(v4)_revgeo.xlsx: reverse-geocoded register for Brazil. This file is the output of “Reverse_geocoding_register.py” and the input of "Geomatching_ICOLD.py".
 
 
-References: 
+Reference: 
 
 Wang, J., Walter, B.A., Yao, F., Song, C., Ding, M., Maroof, M.A.S., Zhu, J., Fan, C., Xin, A., McAlister, J.M., Sikder, M.S., Sheng, Y., Allen, G.H., Crétaux, J.-F., and Wada, Y., 2021. GeoDAR: Georeferenced global dam and reservoir database for bridging attributes and geolocations. Earth System Science Data, in review.
