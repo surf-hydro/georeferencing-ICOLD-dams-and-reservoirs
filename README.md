@@ -35,4 +35,4 @@ CadastroRSB2017_Portal_SNISB(v4)_revgeo.xlsx: reverse-geocoded register for Braz
 
 Reference: 
 
-Wang, J., Walter, B.A., Yao, F., Song, C., Ding, M., Maroof, M.A.S., Zhu, J., Fan, C., Xin, A., McAlister, J.M., Sikder, M.S., Sheng, Y., Allen, G.H., Crétaux, J.-F., and Wada, Y., 2021. GeoDAR: Georeferenced global dam and reservoir dataset for bridging attributes and geolocations. Earth System Science Data, in review.
+Wang, J., Walter, B. A., Yao, F., Song, C., Ding, M., Maroof, A. S., Zhu, J., Fan, C., McAlister, J. M., Sikder, M. S., Sheng, Y., Allen, G. H., Crétaux, J.-F., and Wada, Y.: GeoDAR: georeferenced global dams and reservoirs database for bridging attributes and geolocations. Earth System Science Data, 14, 1-31, 2022, doi: 10.5194/essd-14-1-2022.
